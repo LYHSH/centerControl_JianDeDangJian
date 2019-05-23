@@ -1,0 +1,4 @@
+*.db
+centerControl/centerControl.vcxproj.user
+centerControl/.vs/
+centerControl/obj/
