@@ -43,13 +43,14 @@ void ofxHexCmdsMgr::setOn(int _index)
 {
 	if (!checkOut(_index))return;
 	
+	ofLogNotice(OF_FUNCTION_NAME) <<_index<<":          on" << endl;
 	sendMsgByType(hexCmds[_index].type,hexCmds[_index].onHexCmd);
 }
 
 void ofxHexCmdsMgr::setOff(int _index)
 {
 	if (!checkOut(_index))return;
-
+	ofLogNotice(OF_FUNCTION_NAME) << _index << ":          off" << endl;
 	sendMsgByType(hexCmds[_index].type, hexCmds[_index].offHexCmd);
 }
 

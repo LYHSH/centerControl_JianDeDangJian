@@ -60,42 +60,42 @@
 <node>
 	<on>open 01 02</on>
 	<off>close 01 02</off>
-	<type>STR_HEX</type>
+	<type>STR_CHAR</type>
 </node>
 
 <!-- 108 -->
 <node>
 	<on>open 01 03</on>
 	<off>close 01 03</off>
-	<type>STR_HEX</type>
+	<type>STR_CHAR</type>
 </node>
 
 <!-- 109 -->
 <node>
 	<on>open 01 04</on>
 	<off>close 01 04</off>
-	<type>STR_HEX</type>
+	<type>STR_CHAR</type>
 </node>
 
 <!-- 110 -->
 <node>
 	<on>open 01 05</on>
 	<off>close 01 05</off>
-	<type>STR_HEX</type>
+	<type>STR_CHAR</type>
 </node>
 
 <!-- 111 -->
 <node>
 	<on>open 01 06</on>
 	<off>close 01 06</off>
-	<type>STR_HEX</type>
+	<type>STR_CHAR</type>
 </node>
 
 <!-- 112 -->
 <node>
 	<on>open 01 01</on>
 	<off>close 01 01</off>
-	<type>STR_HEX</type>
+	<type>STR_CHAR</type>
 </node>
 
 <!-- 113 -->
